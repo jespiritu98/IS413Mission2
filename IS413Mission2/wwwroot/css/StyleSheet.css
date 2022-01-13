@@ -1,0 +1,23 @@
+﻿/*CSS Style sheet*/
+
+body {
+    font-size 20px;
+    font-family: 'Verdana', 'Geneva', 'Tahoma', sans-serif
+
+
+}
+
+label {
+    font-size: 20px;
+    color: maroon;
+    width: 200px;
+    display: inline-block;
+}
+
+textarea {
+    font-size: 25px;
+}
+
+li {
+    list-style-type: none;
+}
